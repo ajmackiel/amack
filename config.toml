@@ -13,11 +13,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
+    name = "CV"
+    url = "https://github.com/ajmackiel/amack/blob/master/AlexMackielCV.docx.pdf"
+[[menu.main]]
     name = "GitHub"
     url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/ajmackiel"
 
 [params]
     description = "A website built through Hugo and blogdown."
