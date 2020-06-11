@@ -1,8 +1,9 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
+title: "Biography"
+author: "Alex"
+date: "6/10/2020"
+output: html_document
 ---
-
 I'm a M.S. in Psychological Sciences student at SUNY New Paltz. I am also a Research Assistant for the Culture, Cognition, and Coevolution Lab at Harvard University in the Department of Human Evolutionary Biology. 
 
 I graduated from Carleton College with a B.A. in Psychology and English. There, I conducted research in a behavioral neuroscience lab studying motivation and reward in female rats. 
